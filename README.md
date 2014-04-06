@@ -8,7 +8,7 @@ Locale allows you to change device settings when certain outside conditions are 
 
 Usage
 -----
-[This site provides a very straightforward method of using AAR files in Android Studio(http://geekgarage.labasland.net/local-aar-android-library/). You essentially add a new directory to your project, include it as a flat repository, and add it to your dependencies in Gradle.
+[This site provides a very straightforward method of using AAR files in Android Studio](http://geekgarage.labasland.net/local-aar-android-library/). You essentially add a new directory to your project, include it as a flat repository, and add it to your dependencies in Gradle.
 
 Building
 --------
