@@ -7,12 +7,12 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="Z:\Windows\Desktop\locale-api" />
-            <option value="Z:\Windows\Desktop\locale-api\locale" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/locale" />
           </set>
         </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
 </project>
-
