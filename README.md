@@ -1,3 +1,5 @@
+**NOTE** It's been brought to my attention that there is an official repo for this (and has been for a while?) that is tested and does the same thing, but from the actual authors. You probably want to be using that unless you *really* need PackageScrubber. [Find it here](https://github.com/twofortyfouram/android-plugin-api-for-locale).
+
 AndroidStudio-LocaleAPI
 =======================
 A version of the API library used by the Tasker and Locale apps for plugin development built in Android Studio.
